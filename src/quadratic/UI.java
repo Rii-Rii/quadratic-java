@@ -10,7 +10,7 @@ public class UI
     {
         System.out.println("\n\n");
         System.out.println("\t\t\t  QUADRATIC SOLVER");
-        System.out.println("\t\tBecause who likes solving these manually?");
+        System.out.println("\tBecause who likes solving these manually?");
         System.out.println("");
 
         while (true)
@@ -23,7 +23,7 @@ public class UI
 
             output();
         }
-        System.out.println("operations terminated.");
+        System.out.println("");
         s.close();
     }
 
