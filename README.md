@@ -1,5 +1,6 @@
-- Solves quadratic equations
-- Logic and UI seperation
+## features
+- cli based quad calc
+- ogic and UI seperation
 ## utilised
 - Java
 - IntelliJ IDEA
