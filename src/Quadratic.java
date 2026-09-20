@@ -1,4 +1,4 @@
-package quadratic.src.quadratic;
+
 
 public class Quadratic
 {

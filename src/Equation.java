@@ -1,4 +1,3 @@
-package quadratic.src.quadratic;
 
 public class Equation
 {

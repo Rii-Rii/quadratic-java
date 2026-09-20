@@ -1,4 +1,3 @@
-package quadratic.src.quadratic;
 import java.util.Scanner;
 
 public class UI
